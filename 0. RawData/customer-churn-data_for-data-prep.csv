@@ -1,0 +1,997 @@
+Gender,Payment Method,Churn,LastTransaction,Country,Province,BirthYear
+male,credit card,loyal,1,TH,Bangkok,1899
+female,credit card,churn,3,TH,Bangkok,2000
+male,credit card,loyal,6,TH,Non Nam Thaeng,1980
+female,credit card,churn,7,TH,Ang Thong,1899
+female,credit card,churn,11,TH,Bueng Kan,1985
+,credit card,churn,13,TH,Buriram,1982
+,cheque,loyal,13,TH,Chachoengsao,1985
+male,credit card,loyal,15,TH,Chai Nat,1928
+male,cash,,16,TH,Chaiyaphum,1996
+female,credit card,churn,17,TH,Chanthaburi,1979
+female,credit card,churn,19,TH,Chiang Mai,1946
+male,credit card,loyal,19,TH,Chiang Rai,1899
+male,cash,loyal,20,TH,Chonburi,1992
+male,credit card,loyal,21,TH,Chumphon,1964
+female,credit card,,21,TH,Kalasin,1992
+female,credit card,churn,23,TH,Kamphaeng Phet,1979
+male,credit card,churn,23,TH,Kanchanaburi,1986
+male,credit card,loyal,23,TH,Khon Kaen,1988
+,credit card,loyal,23,TH,Krabi,1990
+,credit card,,24,TH,Khelang Nakhon,1978
+male,cash,loyal,24,TH,Lamphun,1936
+female,credit card,loyal,25,TH,Loei,2001
+female,credit card,loyal,25,TH,Lopburi,1994
+male,cash,loyal,26,TH,Mae Hong Son,1899
+female,credit card,,27,TH,Maha Sarakham,1947
+female,credit card,churn,27,TH,Mukdahan,1951
+male,credit card,,27,TH,Nakhon Nayok,1969
+male,credit card,loyal,28,TH,Nakhon Pathom,1954
+female,credit card,loyal,28,TH,Nakhon Phanom,1983
+male,credit card,loyal,28,TH,Nakhon Ratchasima,1991
+male,credit card,loyal,29,TH,Nakhon Sawan,1899
+female,credit card,loyal,29,TH,Nakhon Si Thammarat,1992
+female,credit card,loyal,30,TH,Nan,1985
+female,credit card,loyal,30,TH,Narathiwat,1989
+male,credit card,loyal,31,TH,Nong Bua Lam Phu,1928
+male,credit card,churn,33,TH,Nong Khai,1970
+female,credit card,churn,33,TH,Nonthaburi,1944
+female,credit card,loyal,33,TH,Pathum Thani,1989
+female,cash,,34,TH,Pattani,1942
+male,credit card,loyal,34,TH,Phang Nga,1966
+female,credit card,churn,34,TH,Phatthalung,2000
+male,credit card,loyal,34,TH,Phayao,1968
+female,credit card,loyal,35,TH,Phetchabun,1996
+,credit card,churn,35,TH,Phetchaburi,1984
+,credit card,loyal,35,TH,Phichit,1965
+,cash,churn,36,TH,Phitsanulok,1986
+female,credit card,loyal,36,TH,Phra Nakhon Si Ayutthaya,2001
+female,credit card,churn,36,TH,Phrae,1967
+male,credit card,loyal,37,TH,Phuket,1950
+female,credit card,loyal,37,TH,Prachinburi,1991
+male,cash,loyal,37,TH,Prachuap Khiri Khan,1968
+female,credit card,churn,38,TH,Ranong,1967
+female,credit card,loyal,38,TH,Ratchaburi,1996
+male,credit card,loyal,38,TH,Rayong,1979
+male,credit card,loyal,38,TH,Roi Et,1967
+male,credit card,loyal,39,TH,Sa Kaeo,1979
+male,cheque,,40,TH,Sakon Nakhon,1970
+male,cash,loyal,41,TH,Samut Prakan,1978
+male,cash,,41,TH,Samut Sakhon,1992
+male,credit card,loyal,42,TH,Samut Songkhram,1997
+male,cash,loyal,42,TH,Saraburi,1990
+male,credit card,loyal,42,TH,Satun,1987
+male,credit card,loyal,42,TH,Sing Buri,1992
+male,credit card,loyal,43,TH,Sisaket,1990
+female,credit card,loyal,43,TH,Songkhla,1998
+male,credit card,loyal,43,TH,Sukhothai,1962
+male,cash,loyal,43,TH,Suphan Buri,1960
+male,credit card,loyal,43,TH,Surat Thani,1990
+female,cash,churn,43,TH,Surin,1978
+male,cash,loyal,43,TH,Tak,1954
+male,credit card,,43,TH,Trang,1954
+male,credit card,loyal,44,TH,Trat,1975
+male,credit card,loyal,44,TH,Ubon Ratchathani,1983
+male,credit card,loyal,45,TH,Udon Thani,1997
+male,credit card,loyal,45,TH,Uthai Thani,1967
+male,cash,loyal,45,TH,Uttaradit,1989
+male,credit card,loyal,45,TH,Yala,1987
+male,cash,loyal,45,TH,Yasothon,1981
+male,credit card,loyal,46,TH,Bangkok,1982
+male,credit card,loyal,46,TH,Bangkok,1962
+female,credit card,churn,46,TH,Bangkok,1999
+female,cash,churn,46,TH,Bangkok,1991
+male,credit card,loyal,46,TH,Bangkok,1976
+female,credit card,churn,47,TH,Bangkok,1951
+male,credit card,loyal,47,TH,Bangkok,1978
+female,credit card,loyal,47,TH,Bangkok,1963
+female,credit card,loyal,48,TH,Bangkok,1938
+,credit card,churn,49,TH,Bangkok,1959
+male,credit card,loyal,49,TH,Bangkok,1976
+,cash,churn,49,TH,Bangkok,1962
+male,credit card,loyal,49,TH,Bangkok,1975
+male,credit card,loyal,49,TH,Bangkok,1999
+male,credit card,loyal,50,TH,Bangkok,1972
+male,cash,loyal,50,TH,Bangkok,1996
+male,credit card,loyal,50,TH,Bangkok,1960
+male,credit card,,50,TH,Bangkok,1998
+male,cheque,loyal,50,TH,Bangkok,1985
+male,credit card,loyal,51,TH,Bangkok,1996
+male,credit card,loyal,51,TH,Bangkok,1999
+female,credit card,loyal,51,TH,Bangkok,2001
+female,credit card,churn,51,TH,Bangkok,1998
+male,credit card,loyal,52,TH,Bangkok,1985
+male,credit card,churn,52,TH,Bangkok,1976
+male,credit card,loyal,52,TH,Bangkok,1965
+female,credit card,loyal,53,TH,Bangkok,1968
+female,cash,churn,54,TH,Bangkok,1991
+female,credit card,loyal,54,TH,Bangkok,2001
+female,credit card,loyal,54,TH,Bangkok,1995
+male,credit card,loyal,54,TH,Bangkok,1967
+male,credit card,loyal,55,TH,Bangkok,1973
+male,credit card,loyal,55,TH,Bangkok,1987
+male,credit card,loyal,55,TH,Bangkok,1957
+male,credit card,loyal,55,TH,Bangkok,1994
+female,credit card,loyal,55,TH,Bangkok,
+,cash,loyal,55,TH,Bangkok,
+male,credit card,loyal,55,TH,Bangkok,
+female,credit card,loyal,56,TH,Bangkok,
+male,credit card,,56,TH,Bangkok,
+male,cash,loyal,56,TH,Bangkok,
+female,cheque,churn,56,TH,Bangkok,
+male,cash,churn,57,TH,Non Nam Thaeng,
+male,credit card,loyal,57,TH,Ang Thong,
+male,credit card,loyal,57,TH,Bueng Kan,
+male,credit card,loyal,57,TH,Buriram,
+male,credit card,loyal,57,TH,Chachoengsao,
+female,credit card,loyal,57,TH,Chai Nat,
+male,credit card,loyal,58,TH,Chaiyaphum,
+male,credit card,loyal,58,TH,Chanthaburi,1992
+female,credit card,churn,59,TH,Chiang Mai,1964
+male,credit card,loyal,59,TH,Chiang Rai,1964
+female,credit card,churn,59,TH,Chonburi,2001
+male,credit card,loyal,59,TH,Chumphon,1965
+male,credit card,loyal,59,TH,Kalasin,1995
+male,cash,loyal,60,TH,Kamphaeng Phet,1953
+female,credit card,loyal,60,TH,Kanchanaburi,2000
+female,credit card,loyal,60,TH,Khon Kaen,1988
+male,credit card,,60,TH,Krabi,1998
+female,credit card,churn,61,TH,Khelang Nakhon,1954
+female,credit card,loyal,61,TH,Lamphun,1990
+female,credit card,loyal,61,TH,Loei,1997
+,credit card,loyal,61,TH,Lopburi,1973
+male,cash,loyal,61,TH,Mae Hong Son,1987
+female,cash,loyal,62,TH,Maha Sarakham,1989
+female,cash,loyal,62,TH,Mukdahan,1942
+female,cash,churn,63,TH,Nakhon Nayok,1929
+female,credit card,loyal,63,TH,Nakhon Pathom,1990
+male,credit card,,63,TH,Nakhon Phanom,1981
+male,cash,loyal,63,TH,Nakhon Ratchasima,1973
+female,cash,churn,64,TH,Nakhon Sawan,1938
+male,credit card,,64,TH,Nakhon Si Thammarat,1984
+male,credit card,,64,TH,Nan,2000
+female,credit card,loyal,64,TH,Narathiwat,2000
+male,cheque,loyal,64,TH,Nong Bua Lam Phu,1974
+male,credit card,loyal,64,TH,Nong Khai,1962
+female,credit card,loyal,65,TH,Nonthaburi,1999
+female,credit card,churn,65,TH,Pathum Thani,1972
+male,cash,,65,TH,Pattani,1999
+male,credit card,loyal,65,TH,Phang Nga,2001
+male,credit card,loyal,65,TH,Phatthalung,1973
+male,credit card,loyal,65,TH,Phayao,1977
+male,credit card,,66,TH,Phetchabun,1984
+male,credit card,loyal,66,TH,Phetchaburi,1960
+male,cash,loyal,66,TH,Phichit,1986
+male,cash,loyal,66,TH,Phitsanulok,1984
+male,credit card,loyal,66,TH,Phra Nakhon Si Ayutthaya,1997
+male,credit card,loyal,67,TH,Phrae,1973
+female,credit card,churn,67,TH,Phuket,1970
+,credit card,loyal,67,TH,Prachinburi,1969
+male,cash,,67,TH,Prachuap Khiri Khan,1975
+male,cash,loyal,67,TH,Ranong,1995
+male,credit card,,67,TH,Ratchaburi,1978
+male,credit card,loyal,67,TH,Rayong,1994
+male,credit card,loyal,67,TH,Roi Et,1956
+male,credit card,loyal,67,TH,Sa Kaeo,1993
+male,credit card,loyal,67,TH,Sakon Nakhon,1987
+male,credit card,churn,68,TH,Samut Prakan,1963
+male,credit card,loyal,68,TH,Samut Sakhon,1960
+female,credit card,loyal,68,TH,Samut Songkhram,1999
+female,credit card,loyal,68,TH,Saraburi,1944
+male,credit card,loyal,68,TH,Satun,1979
+female,credit card,loyal,68,TH,Sing Buri,1998
+male,cash,loyal,68,TH,Sisaket,1998
+male,credit card,,68,TH,Songkhla,1954
+female,cash,loyal,68,TH,Sukhothai,1961
+male,credit card,loyal,69,TH,Suphan Buri,1983
+male,credit card,loyal,69,TH,Surat Thani,1976
+male,credit card,loyal,69,TH,Surin,1954
+male,credit card,loyal,69,TH,Tak,1982
+male,credit card,loyal,69,TH,Trang,1971
+male,credit card,loyal,69,TH,Trat,1972
+female,credit card,loyal,69,TH,Ubon Ratchathani,1989
+male,credit card,loyal,69,TH,Udon Thani,1996
+female,cheque,churn,70,TH,Uthai Thani,1972
+female,credit card,loyal,70,TH,Uttaradit,2000
+male,credit card,,70,TH,Yala,1967
+male,credit card,loyal,70,TH,Yasothon,1988
+female,credit card,loyal,70,TH,Bangkok,1999
+female,credit card,loyal,70,TH,Bangkok,1989
+male,credit card,loyal,70,TH,Bangkok,2001
+male,credit card,loyal,70,TH,Bangkok,1991
+male,cash,churn,70,TH,Bangkok,1983
+male,cash,loyal,71,TH,Bangkok,1999
+male,credit card,loyal,71,TH,Bangkok,1970
+,credit card,loyal,71,TH,Bangkok,1957
+male,cash,loyal,71,TH,Bangkok,1990
+female,cash,churn,71,TH,Bangkok,1945
+male,cash,,71,TH,Bangkok,1989
+female,credit card,loyal,72,TH,Bangkok,1996
+female,cash,loyal,72,TH,Bangkok,1975
+female,credit card,churn,72,TH,Bangkok,1972
+male,credit card,loyal,72,TH,Bangkok,1992
+male,credit card,loyal,72,TH,Bangkok,1999
+female,credit card,loyal,73,TH,Bangkok,1996
+male,credit card,loyal,73,TH,Bangkok,1989
+female,credit card,loyal,73,TH,Bangkok,1991
+male,cash,loyal,73,TH,Bangkok,1994
+male,cash,loyal,73,TH,Bangkok,2001
+male,credit card,,73,TH,Bangkok,1994
+female,credit card,loyal,73,TH,Bangkok,1995
+female,cash,churn,73,TH,Bangkok,2000
+male,credit card,loyal,73,TH,Bangkok,1975
+male,credit card,loyal,73,TH,Bangkok,1976
+male,credit card,loyal,73,TH,Bangkok,1974
+male,credit card,loyal,73,TH,Bangkok,1988
+male,credit card,loyal,74,TH,Bangkok,1978
+male,credit card,loyal,74,TH,Bangkok,1982
+female,cash,churn,74,TH,Bangkok,1968
+,credit card,loyal,74,TH,Bangkok,2000
+male,credit card,,74,TH,Bangkok,1992
+male,credit card,loyal,74,TH,Bangkok,1997
+male,cash,loyal,74,TH,Bangkok,1995
+female,credit card,loyal,75,TH,Bangkok,1991
+male,credit card,loyal,75,TH,Bangkok,1989
+female,cash,loyal,75,TH,Bangkok,1960
+male,credit card,loyal,75,TH,Bangkok,1967
+female,credit card,churn,75,TH,Bangkok,1952
+male,cheque,loyal,75,TH,Bangkok,1955
+female,credit card,churn,75,TH,Bangkok,1979
+female,credit card,loyal,76,TH,Non Nam Thaeng,1998
+female,credit card,,76,TH,Ang Thong,1988
+female,credit card,loyal,76,TH,Bueng Kan,1995
+male,credit card,loyal,76,TH,Buriram,1964
+male,credit card,churn,76,TH,Chachoengsao,1954
+male,credit card,loyal,76,TH,Chai Nat,1979
+male,cash,loyal,76,TH,Chaiyaphum,1988
+female,credit card,loyal,76,TH,Chanthaburi,1993
+male,credit card,loyal,77,TH,Chiang Mai,1988
+male,credit card,loyal,77,TH,Chiang Rai,1973
+male,credit card,loyal,77,TH,Chonburi,1966
+male,credit card,loyal,77,TH,Chumphon,1969
+male,credit card,loyal,77,TH,Kalasin,1983
+male,cash,churn,77,TH,Kamphaeng Phet,1929
+male,credit card,loyal,77,TH,Kanchanaburi,1969
+male,credit card,,77,TH,Khon Kaen,1975
+,credit card,loyal,78,TH,Krabi,2018
+male,credit card,loyal,78,TH,Khelang Nakhon,1994
+female,credit card,loyal,78,TH,Lamphun,1997
+male,credit card,loyal,78,TH,Loei,1990
+male,credit card,loyal,78,TH,Lopburi,1984
+male,credit card,loyal,78,TH,Mae Hong Son,1937
+female,credit card,churn,78,TH,Maha Sarakham,1995
+male,credit card,,78,TH,Mukdahan,1984
+male,credit card,loyal,78,TH,Nakhon Nayok,2000
+male,credit card,loyal,78,TH,Nakhon Pathom,1998
+male,credit card,loyal,78,TH,Nakhon Phanom,1975
+female,credit card,loyal,79,TH,Nakhon Ratchasima,1998
+male,cash,,79,TH,Nakhon Sawan,1953
+male,credit card,loyal,79,TH,Nakhon Si Thammarat,1974
+male,credit card,loyal,80,TH,Nan,1964
+male,credit card,loyal,80,TH,Narathiwat,1947
+male,credit card,loyal,80,TH,Nong Bua Lam Phu,1977
+male,credit card,loyal,80,TH,Nong Khai,1984
+male,credit card,loyal,80,TH,Nonthaburi,1975
+male,credit card,loyal,80,TH,Pathum Thani,1994
+male,cash,loyal,81,TH,Pattani,2000
+male,credit card,,82,TH,Phang Nga,1978
+male,credit card,loyal,82,TH,Phatthalung,1949
+female,credit card,churn,82,TH,Phayao,2001
+male,credit card,loyal,82,TH,Phetchabun,1956
+female,credit card,churn,82,TH,Phetchaburi,1956
+male,cheque,loyal,82,TH,Phichit,1991
+female,credit card,loyal,82,TH,Phitsanulok,1990
+male,credit card,loyal,83,TH,Phra Nakhon Si Ayutthaya,1976
+male,credit card,loyal,83,TH,Phrae,1979
+female,credit card,loyal,83,TH,Phuket,1997
+female,credit card,loyal,83,TH,Prachinburi,1989
+female,credit card,loyal,83,TH,Prachuap Khiri Khan,2001
+male,credit card,loyal,83,TH,Ranong,1993
+female,credit card,loyal,83,TH,Ratchaburi,1998
+male,credit card,,83,TH,Rayong,1974
+male,credit card,loyal,83,TH,Roi Et,1980
+male,cash,loyal,83,TH,Sa Kaeo,1975
+female,credit card,loyal,84,TH,Sakon Nakhon,2000
+male,credit card,,84,TH,Samut Prakan,1977
+female,cash,churn,84,TH,Samut Sakhon,1957
+female,credit card,loyal,85,TH,Samut Songkhram,2001
+male,credit card,,85,TH,Saraburi,1965
+male,cheque,loyal,85,TH,Satun,1945
+female,credit card,loyal,85,TH,Sing Buri,1999
+male,credit card,loyal,85,TH,Sisaket,1951
+male,credit card,loyal,85,TH,Songkhla,1977
+female,credit card,loyal,85,TH,Sukhothai,1990
+male,credit card,loyal,85,TH,Suphan Buri,1956
+male,credit card,loyal,85,TH,Surat Thani,1966
+female,credit card,churn,85,TH,Surin,1951
+male,credit card,loyal,85,TH,Tak,1971
+male,credit card,loyal,85,TH,Trang,1986
+male,credit card,loyal,86,TH,Trat,1972
+male,credit card,loyal,86,TH,Ubon Ratchathani,1972
+male,credit card,loyal,86,TH,Udon Thani,1975
+male,credit card,loyal,86,TH,Uthai Thani,1987
+female,cheque,churn,86,TH,Uttaradit,1955
+male,credit card,loyal,86,TH,Yala,1986
+male,cheque,,86,TH,Yasothon,1947
+male,cash,loyal,86,TH,Bangkok,1993
+male,credit card,loyal,87,TH,Bangkok,1952
+male,credit card,loyal,87,TH,Bangkok,1983
+male,credit card,loyal,87,TH,Bangkok,1978
+male,credit card,,87,TH,Bangkok,1970
+female,credit card,churn,87,TH,Bangkok,1973
+male,cash,loyal,87,TH,Bangkok,1992
+female,credit card,churn,87,TH,Bangkok,1989
+female,credit card,loyal,87,TH,Bangkok,2001
+male,credit card,loyal,87,TH,Bangkok,1970
+female,credit card,loyal,87,TH,Bangkok,1972
+male,credit card,loyal,87,TH,Bangkok,1968
+male,credit card,loyal,88,TH,Bangkok,1996
+male,credit card,loyal,88,TH,Bangkok,1960
+male,credit card,loyal,88,TH,Bangkok,1972
+male,cash,loyal,88,TH,Bangkok,2000
+male,cash,loyal,88,TH,Bangkok,1993
+male,credit card,loyal,88,TH,Bangkok,1982
+,credit card,,88,TH,Bangkok,1997
+male,credit card,loyal,89,TH,Bangkok,1997
+male,credit card,,89,TH,Bangkok,1992
+female,credit card,loyal,89,TH,Bangkok,1988
+female,credit card,churn,89,TH,Bangkok,1980
+female,credit card,,89,TH,Bangkok,1943
+female,cash,loyal,89,TH,Bangkok,1955
+female,credit card,churn,89,TH,Bangkok,1974
+male,credit card,loyal,90,TH,Bangkok,1979
+male,cash,churn,90,TH,Bangkok,1965
+female,credit card,,90,TH,Bangkok,2000
+male,cash,loyal,90,TH,Bangkok,1971
+male,credit card,loyal,90,TH,Bangkok,1967
+female,cash,churn,90,TH,Bangkok,1978
+female,cash,churn,90,TH,Bangkok,1971
+male,credit card,,91,TH,Bangkok,1982
+male,cash,loyal,91,TH,Bangkok,1996
+male,credit card,loyal,91,TH,Bangkok,1981
+male,credit card,loyal,91,TH,Bangkok,1974
+female,credit card,churn,91,TH,Bangkok,1937
+female,credit card,churn,91,TH,Bangkok,1954
+female,credit card,churn,91,TH,Bangkok,1976
+male,credit card,loyal,92,TH,Bangkok,1993
+male,credit card,loyal,92,TH,Bangkok,1955
+male,credit card,,92,TH,Non Nam Thaeng,1947
+male,credit card,loyal,92,TH,Ang Thong,1972
+male,credit card,loyal,92,TH,Bueng Kan,1972
+,credit card,loyal,92,TH,Buriram,1991
+male,credit card,,92,TH,Chachoengsao,1959
+male,credit card,,92,TH,Chai Nat,1981
+male,credit card,loyal,92,TH,Chaiyaphum,1999
+male,cheque,loyal,93,TH,Chanthaburi,1991
+male,cash,loyal,93,TH,Chiang Mai,1948
+female,credit card,loyal,93,TH,Chiang Rai,1990
+male,credit card,loyal,93,TH,Chonburi,1982
+female,credit card,churn,93,TH,Chumphon,1977
+female,credit card,loyal,93,TH,Kalasin,1988
+female,cheque,churn,93,TH,Kamphaeng Phet,1949
+male,credit card,loyal,94,TH,Kanchanaburi,1957
+male,cash,loyal,94,TH,Khon Kaen,1990
+male,credit card,loyal,94,TH,Krabi,1990
+male,credit card,loyal,94,TH,Khelang Nakhon,1967
+male,credit card,,94,TH,Lamphun,1965
+male,credit card,loyal,94,TH,Loei,1986
+female,cheque,churn,94,TH,Lopburi,1996
+male,credit card,loyal,94,TH,Mae Hong Son,1950
+male,credit card,churn,95,TH,Maha Sarakham,1993
+male,credit card,loyal,95,TH,Mukdahan,2000
+male,credit card,,95,TH,Nakhon Nayok,1972
+female,credit card,loyal,95,TH,Nakhon Pathom,2000
+male,credit card,loyal,95,TH,Nakhon Phanom,1988
+female,credit card,churn,95,TH,Nakhon Ratchasima,1952
+male,cheque,loyal,96,TH,Nakhon Sawan,1984
+male,credit card,loyal,96,TH,Nakhon Si Thammarat,1999
+,credit card,loyal,96,TH,Nan,2000
+male,credit card,loyal,96,TH,Narathiwat,1976
+male,credit card,,96,TH,Nong Bua Lam Phu,1961
+male,cash,churn,96,TH,Nong Khai,1939
+female,credit card,loyal,96,TH,Nonthaburi,1998
+male,credit card,loyal,96,TH,Pathum Thani,1977
+male,credit card,loyal,96,TH,Pattani,1958
+male,credit card,loyal,96,TH,Phang Nga,1973
+female,credit card,loyal,96,TH,Phatthalung,1997
+male,credit card,loyal,97,TH,Phayao,1982
+female,credit card,churn,97,TH,Phetchabun,1932
+male,cash,loyal,97,TH,Phetchaburi,1970
+female,credit card,churn,97,TH,Phichit,1949
+female,cash,churn,97,TH,Phitsanulok,1966
+male,credit card,loyal,98,TH,Phra Nakhon Si Ayutthaya,1954
+male,credit card,loyal,98,TH,Phrae,1946
+male,credit card,loyal,98,TH,Phuket,1984
+male,credit card,loyal,98,TH,Prachinburi,1948
+male,credit card,loyal,98,TH,Prachuap Khiri Khan,1963
+male,cash,loyal,98,TH,Ranong,1996
+female,cash,churn,98,TH,Ratchaburi,1966
+male,credit card,,98,TH,Rayong,2001
+male,cash,loyal,99,TH,Roi Et,1987
+female,credit card,,99,TH,Sa Kaeo,2000
+male,cash,loyal,99,TH,Sakon Nakhon,1990
+male,credit card,loyal,99,TH,Samut Prakan,1995
+female,credit card,loyal,99,TH,Samut Sakhon,1965
+male,credit card,loyal,100,TH,Samut Songkhram,1984
+male,credit card,loyal,100,TH,Saraburi,1994
+male,credit card,loyal,100,TH,Satun,1964
+male,credit card,,100,TH,Sing Buri,1962
+male,cash,loyal,100,TH,Sisaket,1996
+female,cheque,loyal,100,TH,Songkhla,1977
+female,cheque,churn,100,TH,Sukhothai,1945
+female,credit card,loyal,100,TH,Suphan Buri,1988
+male,credit card,loyal,101,TH,Surat Thani,1968
+male,credit card,churn,101,TH,Surin,1982
+male,credit card,loyal,101,TH,Tak,2001
+female,credit card,churn,101,TH,Trang,1973
+female,credit card,loyal,102,TH,Trat,1997
+male,credit card,,102,TH,Ubon Ratchathani,1955
+male,credit card,loyal,102,TH,,1996
+male,credit card,loyal,102,TH,,1978
+male,credit card,loyal,102,TH,,1938
+male,cash,,102,TH,,1997
+female,credit card,loyal,102,TH,,1967
+female,cash,churn,102,TH,,1975
+male,credit card,loyal,103,TH,,1978
+male,cash,loyal,103,TH,,1997
+male,credit card,loyal,103,TH,,2001
+male,credit card,,103,TH,,1950
+male,credit card,loyal,103,TH,,1995
+male,cash,loyal,103,TH,,1984
+male,credit card,loyal,103,TH,,1967
+male,credit card,loyal,103,TH,,1989
+female,cash,churn,103,TH,,1977
+male,credit card,loyal,103,TH,,1993
+male,credit card,loyal,104,TH,,1992
+female,credit card,churn,104,TH,,1955
+female,cash,loyal,104,TH,,1948
+male,credit card,loyal,104,TH,,1966
+female,credit card,,104,TH,,1993
+female,cheque,,105,TH,,1972
+male,credit card,loyal,105,TH,,1997
+male,credit card,churn,105,TH,,1942
+female,cheque,loyal,105,TH,,1973
+female,cash,churn,105,TH,,1935
+male,cash,loyal,105,TH,,1968
+male,credit card,loyal,106,TH,,1956
+male,credit card,loyal,106,TH,,1967
+female,credit card,churn,106,TH,,1997
+male,credit card,loyal,106,TH,,1952
+male,credit card,loyal,106,TH,,1984
+male,credit card,loyal,106,TH,,2001
+male,cash,loyal,106,TH,,1979
+male,cheque,loyal,106,TH,,1973
+female,credit card,churn,106,TH,,2001
+female,credit card,loyal,107,TH,,1993
+female,credit card,loyal,107,TH,,1991
+female,credit card,churn,107,TH,,1991
+male,credit card,loyal,107,TH,,1992
+male,credit card,loyal,107,TH,,1983
+female,cash,churn,107,TH,,1982
+male,credit card,loyal,107,TH,,1982
+female,credit card,churn,107,TH,,1969
+female,credit card,churn,107,TH,,1966
+male,credit card,loyal,108,TH,,1961
+female,cash,churn,108,TH,,1960
+male,cheque,loyal,108,TH,,1999
+male,cheque,,108,TH,,1992
+male,credit card,loyal,108,TH,,1994
+male,credit card,loyal,108,TH,,1957
+male,credit card,loyal,108,TH,,1978
+female,cash,loyal,108,TH,,1978
+male,credit card,loyal,108,TH,,1985
+male,credit card,,108,TH,,1997
+male,credit card,loyal,108,TH,,1979
+female,cash,churn,108,TH,,1949
+male,credit card,loyal,108,TH,,1998
+female,credit card,churn,108,TH,,1959
+male,cash,loyal,108,TH,,1998
+male,credit card,loyal,109,TH,,1981
+male,credit card,loyal,109,TH,,1977
+male,credit card,loyal,109,TH,,1998
+female,cash,churn,109,TH,,1989
+female,credit card,churn,109,TH,,1979
+male,credit card,loyal,109,TH,,1927
+female,credit card,churn,109,TH,,1976
+female,credit card,loyal,109,TH,,1928
+male,cash,loyal,109,TH,,1989
+male,cheque,loyal,109,TH,,1938
+male,credit card,loyal,110,TH,,1978
+male,credit card,loyal,110,TH,,1962
+male,credit card,loyal,110,TH,,1984
+male,credit card,loyal,110,TH,,1988
+female,credit card,churn,110,TH,,1972
+female,cash,churn,110,TH,,1994
+male,credit card,loyal,111,TH,,1967
+female,credit card,loyal,111,TH,,1988
+male,credit card,loyal,111,TH,,1985
+male,credit card,loyal,111,TH,,1953
+female,credit card,loyal,111,TH,,2000
+male,cash,loyal,111,TH,,1991
+male,cheque,churn,111,TH,,1981
+female,credit card,loyal,111,TH,,1963
+female,credit card,churn,111,TH,,1942
+male,credit card,loyal,112,TH,,1950
+male,cash,loyal,112,TH,,1992
+male,credit card,loyal,112,TH,,1972
+female,credit card,loyal,112,TH,,1989
+male,credit card,loyal,112,TH,,1967
+male,credit card,loyal,112,TH,,1933
+female,credit card,churn,112,TH,,1985
+male,credit card,loyal,113,TH,,1976
+female,credit card,churn,113,TH,,1949
+male,cash,loyal,113,TH,,1951
+female,credit card,churn,113,TH,,1967
+male,credit card,loyal,114,TH,,1980
+male,credit card,loyal,114,TH,,1970
+female,credit card,,114,TH,,1963
+male,cash,loyal,114,TH,,1982
+male,credit card,loyal,114,TH,,1976
+female,credit card,churn,114,TH,,1958
+female,cash,churn,114,TH,,1970
+male,credit card,,114,TH,,1948
+female,credit card,churn,114,TH,,1934
+female,cash,churn,114,TH,,1948
+male,credit card,loyal,115,TH,,1976
+male,credit card,loyal,115,TH,,1966
+female,credit card,loyal,115,TH,,1994
+male,credit card,loyal,115,TH,,1995
+female,credit card,churn,115,TH,,2001
+male,cash,loyal,115,TH,,1946
+male,cheque,loyal,115,TH,,1984
+female,cash,,115,TH,,1952
+male,credit card,loyal,116,TH,,1998
+female,credit card,churn,116,TH,,1973
+female,cash,loyal,116,TH,,1949
+male,credit card,loyal,116,TH,,1969
+male,credit card,loyal,116,TH,,1955
+male,credit card,loyal,117,TH,,1968
+female,cash,churn,117,TH,,1957
+female,credit card,loyal,117,TH,,1951
+male,cash,loyal,117,TH,,1988
+female,credit card,,117,TH,,2000
+male,credit card,loyal,117,TH,,1977
+female,credit card,churn,117,TH,,1961
+female,cash,churn,117,TH,,1967
+male,credit card,loyal,117,TH,,1961
+male,credit card,loyal,117,TH,,1975
+female,credit card,loyal,117,TH,,1980
+female,credit card,churn,117,TH,,1971
+male,cheque,churn,118,TH,,1983
+female,credit card,loyal,118,TH,,1995
+male,credit card,loyal,118,TH,,1965
+male,credit card,loyal,118,TH,,1987
+male,credit card,loyal,118,TH,,1972
+male,credit card,loyal,118,TH,,1989
+male,cash,loyal,118,TH,,1984
+female,credit card,churn,118,TH,,1979
+female,cash,churn,118,TH,,1974
+female,cheque,churn,118,TH,,1989
+female,credit card,loyal,118,TH,,1998
+female,credit card,churn,118,TH,,1985
+male,cash,,118,TH,,1928
+female,credit card,loyal,119,TH,,1991
+male,cash,loyal,119,TH,,1997
+female,credit card,churn,119,TH,,1980
+male,cash,loyal,119,TH,,1977
+female,cash,churn,119,TH,,1959
+male,cash,loyal,119,TH,,1974
+female,cash,churn,119,TH,,1976
+male,credit card,loyal,119,TH,,1962
+male,cash,loyal,119,TH,,1972
+female,cash,churn,120,TH,,1983
+male,cash,loyal,120,TH,,1967
+female,cheque,churn,120,TH,,1981
+male,credit card,churn,121,TH,,1984
+female,cash,churn,121,TH,,1956
+male,credit card,loyal,121,TH,,1985
+male,cash,loyal,121,TH,,1963
+female,credit card,loyal,121,TH,,2001
+male,cash,churn,121,TH,,1980
+male,credit card,loyal,122,TH,,1991
+male,credit card,,122,TH,,1979
+male,cash,loyal,122,TH,,1975
+male,credit card,loyal,122,TH,,1947
+male,cash,churn,122,TH,,1981
+male,credit card,loyal,122,TH,,1970
+female,cash,loyal,122,TH,,1968
+male,credit card,loyal,122,TH,,1934
+female,credit card,loyal,122,TH,,1988
+female,credit card,churn,123,TH,,1995
+male,credit card,loyal,123,TH,,1961
+female,cash,loyal,123,TH,,1998
+male,cash,loyal,123,TH,,1948
+male,credit card,loyal,123,TH,,1928
+female,cash,churn,123,TH,,1975
+female,cheque,churn,124,TH,,1997
+male,credit card,loyal,124,TH,,1966
+male,credit card,loyal,124,TH,,1934
+female,credit card,churn,125,TH,,1952
+female,credit card,churn,125,TH,,1973
+male,cash,churn,126,TH,,1963
+male,credit card,loyal,126,TH,,1979
+male,cash,loyal,126,TH,,1965
+male,credit card,loyal,126,TH,,1989
+male,credit card,loyal,126,TH,,1958
+female,cash,churn,126,TH,,1963
+female,cash,churn,126,TH,,1979
+male,credit card,loyal,127,TH,,1942
+male,cash,loyal,127,TH,,1967
+male,cash,loyal,127,TH,,1946
+male,cash,loyal,127,TH,,1946
+female,credit card,churn,127,TH,,1954
+female,credit card,churn,127,TH,,1986
+male,credit card,loyal,127,TH,,1935
+male,cash,loyal,127,TH,,1946
+male,credit card,loyal,128,TH,,1988
+male,cheque,,128,TH,,1963
+male,credit card,loyal,128,TH,,1940
+female,cash,churn,128,TH,,1988
+female,credit card,,128,TH,,1979
+female,cash,churn,128,TH,,1981
+male,cash,loyal,128,TH,,1964
+male,cash,churn,128,TH,,1942
+male,credit card,loyal,129,TH,,1998
+female,cash,churn,129,TH,,1968
+male,credit card,churn,129,TH,,1984
+female,credit card,churn,129,TH,,1974
+male,cash,churn,129,TH,,1948
+male,credit card,loyal,129,TH,,1990
+male,cash,loyal,129,TH,,1950
+male,credit card,loyal,129,TH,,1939
+male,cash,churn,129,TH,,1973
+female,cash,churn,130,TH,,1964
+male,credit card,loyal,130,TH,,2001
+female,credit card,churn,130,TH,,1988
+male,cash,,130,TH,,1991
+female,credit card,churn,130,TH,,2000
+male,cash,churn,130,TH,,1977
+female,cash,churn,130,TH,,1973
+female,credit card,churn,130,TH,,1980
+male,credit card,loyal,131,TH,,1980
+male,credit card,loyal,131,TH,,1947
+male,credit card,loyal,131,TH,,1983
+female,cash,churn,131,TH,,1971
+male,credit card,loyal,131,TH,,1986
+female,credit card,churn,131,TH,,1976
+male,credit card,loyal,131,TH,,1940
+male,credit card,loyal,132,TH,,1966
+male,credit card,churn,132,TH,,1973
+male,cash,loyal,132,TH,,1929
+female,credit card,churn,132,TH,,1935
+female,credit card,churn,132,TH,,1987
+male,credit card,loyal,132,TH,,1937
+female,credit card,loyal,133,TH,,2001
+female,credit card,churn,133,TH,,1954
+female,cash,churn,133,TH,,1970
+female,credit card,churn,133,TH,,1978
+male,credit card,loyal,133,TH,,1928
+female,cash,churn,133,TH,,1976
+male,cash,loyal,133,TH,,1967
+male,credit card,churn,133,TH,,1942
+female,cash,churn,133,TH,,1942
+male,credit card,loyal,133,TH,,1927
+female,credit card,churn,133,TH,,1984
+female,cash,churn,134,TH,,1986
+female,cash,churn,134,TH,,1978
+female,credit card,churn,134,TH,,1942
+male,cash,loyal,134,TH,,1964
+female,credit card,loyal,134,TH,,1981
+male,cheque,churn,134,TH,,1963
+female,cash,churn,135,TH,,1996
+female,credit card,churn,135,TH,,1966
+female,cheque,churn,136,TH,,1964
+female,credit card,loyal,136,TH,,1990
+female,cheque,churn,136,TH,,1956
+male,cash,loyal,136,TH,,1960
+male,cash,churn,136,TH,,1961
+male,cash,loyal,137,TH,,1991
+female,credit card,,137,TH,,1988
+female,credit card,churn,137,TH,,1967
+male,credit card,churn,137,TH,,1940
+male,credit card,churn,137,TH,,1932
+male,credit card,loyal,138,TH,,1965
+male,cheque,,138,TH,,2001
+male,credit card,loyal,138,TH,,1928
+male,credit card,loyal,138,TH,,1978
+male,cash,loyal,138,TH,,1966
+female,credit card,churn,138,TH,,1929
+female,credit card,churn,138,TH,,1980
+female,credit card,loyal,138,TH,,1976
+male,cheque,loyal,138,TH,,1931
+female,credit card,loyal,139,TH,,1981
+female,credit card,loyal,139,TH,,1990
+female,cheque,churn,139,TH,,1953
+male,cash,loyal,139,TH,,1966
+female,cash,churn,139,TH,,1979
+female,credit card,churn,139,TH,,1976
+female,credit card,churn,139,TH,,1945
+female,cheque,churn,139,TH,,1968
+female,credit card,churn,139,TH,,1966
+female,credit card,loyal,140,TH,,1955
+male,cash,churn,140,TH,,1957
+female,credit card,churn,140,TH,,1980
+male,cheque,loyal,140,TH,,1996
+female,credit card,loyal,140,TH,,1975
+male,cash,loyal,140,TH,,1975
+male,cash,loyal,140,TH,,1966
+female,cash,loyal,140,TH,,1975
+male,credit card,loyal,141,TH,,1970
+female,credit card,churn,141,TH,,1939
+female,credit card,churn,141,TH,,1983
+female,cash,,141,TH,,1968
+male,credit card,loyal,141,TH,,1999
+female,cash,churn,141,TH,,1963
+female,cash,loyal,141,TH,,1945
+female,credit card,churn,141,TH,,1965
+female,credit card,churn,141,TH,,1976
+female,credit card,loyal,142,TH,,1958
+female,cash,loyal,142,TH,,1971
+male,credit card,loyal,142,TH,,1962
+male,cheque,churn,142,TH,,1976
+female,credit card,,142,TH,,1967
+female,cash,churn,142,TH,,1954
+male,credit card,churn,142,TH,,1991
+male,cash,churn,142,TH,,1950
+female,cash,loyal,142,TH,,1985
+male,cash,loyal,142,TH,,1964
+male,cash,churn,143,TH,,1953
+male,cheque,loyal,143,TH,,1970
+female,credit card,loyal,143,TH,,1937
+male,cash,loyal,143,TH,,2000
+female,credit card,churn,143,TH,,1944
+male,cash,loyal,143,TH,,1961
+female,credit card,,144,TH,,1985
+female,credit card,churn,144,TH,,1931
+female,cash,churn,144,TH,,1957
+male,cash,loyal,144,TH,,1975
+female,credit card,churn,145,TH,,1941
+male,cash,loyal,145,TH,,1951
+female,cheque,,146,TH,,1964
+female,credit card,loyal,146,TH,,1968
+male,credit card,loyal,146,TH,,1959
+female,cheque,churn,146,TH,,1963
+female,cash,churn,146,TH,,1954
+male,cheque,loyal,146,TH,,1959
+male,cash,loyal,147,TH,,1996
+male,cash,loyal,147,TH,,1966
+female,credit card,churn,147,TH,,1978
+female,credit card,churn,147,TH,,1957
+male,credit card,loyal,148,TH,,1969
+female,cash,churn,148,TH,,1993
+female,credit card,,148,TH,,1947
+female,credit card,churn,148,TH,,1961
+female,cash,churn,148,TH,,1991
+male,cash,loyal,148,TH,,1937
+male,cash,loyal,149,TH,,1976
+male,credit card,loyal,149,TH,,1937
+female,cash,loyal,149,TH,,2001
+male,credit card,loyal,149,TH,,1939
+female,credit card,,150,TH,,1973
+female,cheque,loyal,150,TH,,1966
+male,cash,,150,TH,,1962
+male,cash,loyal,150,TH,,1981
+male,cash,loyal,150,TH,,1976
+female,cash,loyal,150,TH,,1970
+female,credit card,churn,151,TH,,1968
+female,cheque,churn,151,TH,,1986
+male,credit card,loyal,151,TH,,1984
+female,credit card,churn,151,TH,,1946
+female,cash,churn,151,TH,,1990
+female,cash,churn,152,TH,,1976
+male,cash,churn,152,TH,,1993
+male,cash,loyal,152,TH,,1976
+male,cash,churn,152,TH,,1955
+female,credit card,churn,152,TH,,1960
+female,credit card,churn,153,TH,,1948
+female,credit card,churn,153,TH,,1948
+male,cash,,153,TH,,1937
+female,credit card,loyal,153,TH,,1983
+female,credit card,loyal,153,TH,,1959
+female,cash,churn,153,TH,,1987
+female,credit card,churn,153,TH,,1967
+male,cash,loyal,153,TH,,1949
+female,credit card,,153,TH,,1975
+male,credit card,loyal,154,TH,,1994
+female,credit card,loyal,154,TH,,1963
+female,cash,churn,154,TH,,1965
+male,cash,loyal,154,TH,,1968
+female,credit card,churn,154,TH,,1973
+female,credit card,loyal,155,TH,,1963
+male,cash,loyal,155,TH,,1953
+male,credit card,loyal,155,TH,,1942
+female,credit card,,155,TH,,1976
+female,credit card,churn,155,TH,,1983
+female,cash,churn,156,TH,,1952
+male,cash,loyal,156,TH,,1954
+male,credit card,loyal,156,TH,,1928
+female,cash,churn,156,TH,,1946
+female,credit card,churn,156,TH,,1974
+female,credit card,churn,156,TH,,1983
+female,credit card,,156,TH,,1963
+male,cheque,loyal,157,TH,,1947
+female,credit card,churn,157,TH,,1961
+female,cheque,churn,157,TH,,1964
+female,credit card,churn,157,TH,,1979
+male,credit card,churn,157,TH,,1940
+female,credit card,,157,TH,,1956
+male,cash,loyal,157,TH,,1967
+male,cash,churn,157,TH,,1947
+male,cash,churn,157,TH,,1951
+female,credit card,churn,158,TH,,2018
+female,credit card,,158,TH,,1946
+female,credit card,churn,158,TH,,1980
+male,credit card,loyal,158,TH,,1927
+female,cheque,churn,158,TH,,1994
+female,credit card,churn,159,TH,,1932
+female,credit card,churn,159,TH,,1949
+male,cash,loyal,159,TH,,1936
+female,credit card,loyal,159,TH,,1932
+male,cash,loyal,159,TH,,1977
+male,cash,churn,159,TH,,1964
+female,credit card,loyal,159,TH,,1970
+male,credit card,loyal,160,TH,,1973
+male,cash,loyal,160,TH,,1955
+male,cash,loyal,160,TH,,1976
+female,cash,loyal,160,TH,,1963
+male,credit card,loyal,160,TH,,1939
+female,credit card,churn,160,TH,,1984
+female,credit card,churn,160,TH,,1942
+male,cash,loyal,160,TH,,1998
+male,cash,loyal,160,TH,,1946
+female,credit card,churn,160,TH,,1954
+female,credit card,,161,TH,,1966
+female,credit card,churn,161,TH,,1936
+female,credit card,churn,161,TH,,1978
+female,credit card,loyal,161,TH,,1969
+female,cash,churn,162,TH,,1994
+female,credit card,churn,162,TH,,1981
+female,credit card,churn,162,TH,,1985
+male,credit card,loyal,162,TH,,1942
+female,credit card,churn,162,TH,,1974
+female,credit card,,162,TH,,1948
+female,credit card,churn,162,TH,,1942
+female,credit card,churn,162,TH,,1962
+male,cash,loyal,162,TH,,1973
+male,credit card,loyal,163,TH,,1934
+male,cash,loyal,163,TH,,1971
+female,cash,churn,163,TH,,1971
+male,cash,loyal,163,TH,,1963
+female,cash,,163,TH,,1980
+male,cash,loyal,163,TH,,1950
+male,cash,churn,164,TH,,1962
+female,cheque,loyal,164,TH,,1993
+female,credit card,churn,164,TH,,1941
+female,credit card,churn,165,TH,,1976
+female,credit card,churn,165,TH,,1981
+female,credit card,churn,165,TH,,1969
+male,credit card,loyal,165,TH,,1942
+female,cash,churn,165,TH,,1971
+female,credit card,,165,TH,,1975
+male,cash,churn,166,TH,,1933
+female,credit card,churn,166,TH,,1969
+male,cheque,churn,166,TH,,1966
+male,cheque,loyal,166,TH,,1961
+female,credit card,,166,TH,,1958
+female,cheque,churn,167,TH,,1942
+female,cheque,churn,167,TH,,1975
+male,cheque,loyal,167,TH,,1971
+female,credit card,,167,TH,,1984
+female,cash,churn,167,TH,,1999
+male,cash,loyal,168,TH,,1952
+female,cash,churn,168,TH,,1945
+male,cash,loyal,168,TH,,1975
+female,cash,churn,168,TH,,1961
+female,credit card,churn,168,TH,,1959
+male,cash,,168,TH,,1961
+female,cash,churn,169,TH,,1940
+female,credit card,loyal,169,TH,,1955
+male,cash,churn,169,TH,,1949
+female,credit card,churn,169,TH,,1952
+female,credit card,,169,TH,,1959
+female,cash,loyal,170,TH,,1963
+female,cash,churn,170,TH,,1929
+female,cash,churn,170,TH,,1958
+male,cash,loyal,170,TH,,1966
+female,cash,loyal,170,TH,,1993
+female,cash,churn,170,TH,,1965
+female,cash,loyal,171,TH,,1986
+male,credit card,loyal,172,TH,,1943
+female,credit card,churn,172,TH,,1985
+female,credit card,loyal,172,TH,,1963
+female,credit card,churn,172,TH,,1985
+male,cash,churn,172,TH,,1961
+female,cash,churn,173,TH,,2000
+female,credit card,churn,173,TH,,1968
+female,credit card,,173,TH,,1979
+female,credit card,loyal,173,TH,,1982
+female,credit card,churn,174,TH,,1983
+female,credit card,churn,174,TH,,1978
+female,credit card,churn,175,TH,,1976
+female,cheque,churn,175,TH,,2000
+female,credit card,churn,175,TH,,1944
+male,cash,churn,175,TH,,1976
+female,credit card,loyal,176,TH,,1983
+female,credit card,,176,TH,,1960
+female,cheque,churn,176,TH,,1968
+female,cash,churn,176,TH,,1995
+female,credit card,churn,176,TH,,1962
+female,credit card,loyal,176,TH,,1972
+female,credit card,,177,TH,,1979
+female,cash,churn,177,TH,,1936
+female,credit card,churn,177,TH,,1983
+female,credit card,churn,177,TH,,1968
+female,credit card,churn,177,TH,,1979
+female,credit card,churn,177,TH,,1967
+female,cheque,loyal,177,TH,,1992
+female,cash,loyal,178,TH,,1981
+male,credit card,churn,178,TH,,1937
+male,cash,loyal,178,TH,,1959
+female,credit card,churn,178,TH,,1964
+female,cash,,178,TH,,1940
+male,cash,loyal,179,TH,,1950
+female,credit card,churn,179,TH,,1967
+male,cheque,loyal,179,TH,,1962
+female,credit card,churn,179,TH,,1938
+male,cash,loyal,180,TH,,1979
+female,credit card,churn,180,TH,,1971
+male,credit card,loyal,180,TH,,1941
+female,credit card,churn,182,TH,,1954
+female,cheque,churn,182,TH,,1991
+female,credit card,churn,182,TH,,1984
+female,cash,,183,TH,,1965
+female,credit card,churn,183,TH,,1969
+female,cash,churn,183,TH,,1965
+male,cheque,,183,TH,,1967
+female,credit card,churn,183,TH,,1964
+female,credit card,churn,184,TH,,1975
+female,cash,churn,184,TH,,1945
+female,cash,churn,185,TH,,1967
+female,credit card,churn,187,TH,,1965
+female,cash,churn,187,TH,,2018
+male,credit card,loyal,187,TH,,1939
+male,cash,churn,187,TH,,1980
+female,credit card,churn,187,TH,,1982
+female,cash,churn,188,TH,,1969
+female,cheque,churn,189,TH,,1990
+male,cash,loyal,189,TH,,1980
+female,cheque,churn,189,TH,,2001
+male,credit card,loyal,190,TH,,1944
+female,cash,churn,190,TH,,1980
+female,cash,churn,190,TH,,1985
+female,credit card,churn,191,TH,,1985
+male,cash,loyal,192,TH,,2018
+female,cash,loyal,192,TH,,1943
+male,cash,churn,192,TH,,1972
+female,cheque,churn,192,TH,,1955
+male,cash,loyal,193,TH,,1966
+male,cheque,loyal,193,TH,,1982
+male,cash,loyal,193,TH,,1974
+female,credit card,,194,TH,,1985
+female,cheque,loyal,194,TH,,1927
+female,cash,churn,194,TH,,1933
+female,credit card,loyal,194,TH,,1968
+female,cash,,194,TH,,1966
+female,cash,loyal,195,TH,,1934
+male,credit card,loyal,195,TH,,1944
+male,credit card,loyal,195,TH,,1945
+male,cash,loyal,195,TH,,1943
+male,cheque,churn,196,TH,,1955
+female,cash,churn,198,TH,,1967
+male,cheque,loyal,199,TH,,1980
+female,cash,,199,TH,,1952
+female,cash,churn,199,TH,,1943
+male,cash,loyal,200,TH,,1969
+female,cash,loyal,203,TH,,1966
+female,credit card,churn,204,TH,,1982
+male,cash,loyal,204,TH,,1937
+female,credit card,churn,207,TH,,1966
+female,credit card,,207,TH,,1943
+male,cash,loyal,208,TH,,1971
+female,credit card,churn,210,TH,,1971
+female,credit card,,210,TH,,1971
+female,cheque,churn,212,TH,,1971
+female,cash,churn,214,TH,,2001
+female,cash,churn,215,TH,,1940
+female,cash,churn,222,TH,,1960
+female,cash,churn,223,TH,,1946
