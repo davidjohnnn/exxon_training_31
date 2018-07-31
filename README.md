@@ -5,6 +5,12 @@ Lecture: https://github.com/davidjohnnn/exxon_training_31/tree/master/%5BLecrtur
 Notebook Source: https://github.com/davidjohnnn/exxon_training_31
 Data Set (with Password): https://github.com/davidjohnnn/exxon_training_31/blob/master/0.%20RawData/exxondataset.zip
 
+Data Set Link:
+
+Data-Thailand-HR_masked.xlsx >>> http://bit.ly/datahr_exxon
+
+group_type.xlsx >>> http://bit.ly/group_type
+
 
 (May start from Lab4 Data Cleansing using the data “customer churn”)
 
@@ -68,19 +74,6 @@ Link >> https://colab.research.google.com/github/davidjohnnn/exxon_training_31/b
 Lab 5: Clustering
 
 Link >> https://colab.research.google.com/github/davidjohnnn/exxon_training_31/blob/master/4.%20Clustering/K-Means-Clustering.ipynb
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
